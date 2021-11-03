@@ -1,0 +1,13 @@
+{
+    "name": "haddad/laraphp",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "zineddine",
+        "email": "hz_haddad@esi.dz"
+    }],
+    "require": {}
+}
